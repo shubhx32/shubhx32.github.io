@@ -27,7 +27,7 @@ class DynamicValues {
                 {
                     title: "B.Tech",
                     desc: "NIT Bhopal (2021-25) | MME",
-                    logo: "src\assets\MANIT-logo-Coloured.png"
+                    logo: "assets\MANIT-logo-Coloured.png"
                 },
                 {
                     title: "Resume",
